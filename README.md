@@ -22,7 +22,7 @@ To add a task, simply type it into the input field and click the "Add" button or
 ## Installation and Setup
 
 ### Clone the repository: 
-git clone [Repository URL]
+git clone [https://github.com/NinaVol/ToDo-List.git]
 
 ### Install necessary dependencies:
 npm install
